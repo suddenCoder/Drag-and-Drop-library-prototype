@@ -1,0 +1,36 @@
+body {
+  margin:0;
+  background: #333;
+   text-align:center;
+   color:#ddd;
+   font-family: Signika Negative, Asap, sans-serif;
+   width: 1040px;
+   margin: 0 auto;
+ }
+ 
+ svg {
+   display:block;
+   position:relative;
+   width:760px;
+   background:#1b1a1a;
+   
+   margin:20px auto;
+ }
+
+ .flexbox{
+ display: flex;
+ justify-content: flex-center;
+ }
+ button{
+   height:50px;
+   width: 190px;
+   margin-top: 10px;
+   background-color: rgb(122, 207, 155);
+   font-size: large;
+   color:rgb(59, 53, 53);
+  
+   
+  
+ }
+ 
+ 
